@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Preferences",
+        "command": "example",
+        "id": "preferences",
+        "children": [{
+        	"caption": "Git files...",
+        	"command": "example"
+        }]
+    }
+]
