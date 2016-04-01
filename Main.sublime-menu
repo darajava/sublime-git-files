@@ -1,8 +1,8 @@
 [
     {
-        "caption": "Preferences",
+        "caption": "Tools",
         "command": "example",
-        "id": "preferences",
+        "id": "tools",
         "children": [{
         	"caption": "Git files...",
         	"command": "example"
